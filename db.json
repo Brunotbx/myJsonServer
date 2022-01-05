@@ -79,9 +79,9 @@
     ],
     "burgers": [
       {
-        "nome": "Matheus Battisti",
+        "name": "Bruno Leonardo",
         "carne": "Picanha",
-        "pao": "Italiano Branco",
+        "pao": "Pão Brioche",
         "opcionais": [
           "Bacon",
           "Salame",
