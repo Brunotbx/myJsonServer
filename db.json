@@ -3,33 +3,33 @@
       "paes": [
         {
           "id": 1,
-          "tipo": "Italiano Branco"
+          "tipo": "Pão Brioche"
         },
         {
           "id": 2,
-          "tipo": "3 Queijos"
+          "tipo": "Pão de Hamburguer"
         },
         {
           "id": 3,
-          "tipo": "Parmesão e Orégano"
+          "tipo": "Pao Australiano"
         },
         {
           "id": 4,
-          "tipo": "Integral"
+          "tipo": "Pão Integral"
         }
       ],
       "carnes": [
         {
           "id": 1,
-          "tipo": "Maminha"
+          "tipo": "Picanha"
         },
         {
           "id": 2,
-          "tipo": "Alcatra"
+          "tipo": "Blend"
         },
         {
           "id": 3,
-          "tipo": "Picanha"
+          "tipo": "Chicken"
         },
         {
           "id": 4,
@@ -47,7 +47,7 @@
         },
         {
           "id": 3,
-          "tipo": "Salame"
+          "tipo": "Maionese"
         },
         {
           "id": 4,
@@ -59,7 +59,7 @@
         },
         {
           "id": 4,
-          "tipo": "Pepino"
+          "tipo": "Onion rings"
         }
       ]
     },
